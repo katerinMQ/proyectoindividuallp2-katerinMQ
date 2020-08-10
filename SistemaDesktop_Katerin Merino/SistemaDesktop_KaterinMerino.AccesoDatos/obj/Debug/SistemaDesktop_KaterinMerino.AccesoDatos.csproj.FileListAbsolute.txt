@@ -1,0 +1,10 @@
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_KaterinMerino.AccesoDatos\bin\Debug\SistemaDesktop_KaterinMerino.AccesoDatos.dll.config
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_KaterinMerino.AccesoDatos\bin\Debug\SistemaDesktop_KaterinMerino.AccesoDatos.dll
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_KaterinMerino.AccesoDatos\bin\Debug\SistemaDesktop_KaterinMerino.AccesoDatos.pdb
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_KaterinMerino.AccesoDatos\bin\Debug\SistemaDesktop_KaterinMerino.Entidad.dll
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_KaterinMerino.AccesoDatos\bin\Debug\SistemaDesktop_KaterinMerino.Entidad.pdb
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_KaterinMerino.AccesoDatos\obj\Debug\SistemaDesktop_KaterinMerino.AccesoDatos.csprojAssemblyReference.cache
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_KaterinMerino.AccesoDatos\obj\Debug\SistemaDesktop_KaterinMerino.AccesoDatos.csproj.CoreCompileInputs.cache
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_KaterinMerino.AccesoDatos\obj\Debug\SistemaDesktop_KaterinMerino.AccesoDatos.csproj.CopyComplete
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_KaterinMerino.AccesoDatos\obj\Debug\SistemaDesktop_KaterinMerino.AccesoDatos.dll
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_KaterinMerino.AccesoDatos\obj\Debug\SistemaDesktop_KaterinMerino.AccesoDatos.pdb

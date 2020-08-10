@@ -1,0 +1,5 @@
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_KaterinMerino.Entidad\bin\Debug\SistemaDesktop_KaterinMerino.Entidad.dll
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_KaterinMerino.Entidad\bin\Debug\SistemaDesktop_KaterinMerino.Entidad.pdb
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_KaterinMerino.Entidad\obj\Debug\SistemaDesktop_KaterinMerino.Entidad.csproj.CoreCompileInputs.cache
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_KaterinMerino.Entidad\obj\Debug\SistemaDesktop_KaterinMerino.Entidad.dll
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_KaterinMerino.Entidad\obj\Debug\SistemaDesktop_KaterinMerino.Entidad.pdb

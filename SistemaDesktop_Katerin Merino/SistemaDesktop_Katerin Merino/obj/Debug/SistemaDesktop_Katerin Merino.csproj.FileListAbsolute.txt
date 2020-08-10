@@ -1,0 +1,38 @@
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\obj\Debug\SistemaDesktop_Katerin Merino.csprojAssemblyReference.cache
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\obj\Debug\SistemaDesktop_Katerin_Merino.Properties.Resources.resources
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\obj\Debug\SistemaDesktop_Katerin Merino.csproj.GenerateResource.cache
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\obj\Debug\SistemaDesktop_Katerin Merino.csproj.CoreCompileInputs.cache
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_Katerin Merino.exe.config
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_Katerin Merino.exe
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_Katerin Merino.pdb
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_KaterinMerino.AccesoDatos.dll
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_KaterinMerino.Entidad.dll
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_KaterinMerino.Negocio.dll
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_KaterinMerino.Presentacion.dll
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_KaterinMerino.AccesoDatos.pdb
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_KaterinMerino.AccesoDatos.dll.config
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_KaterinMerino.Entidad.pdb
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_KaterinMerino.Negocio.pdb
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_KaterinMerino.Presentacion.pdb
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\obj\Debug\SistemaDesktop_Katerin Merino.csproj.CopyComplete
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\obj\Debug\SistemaDesktop_Katerin Merino.exe
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\obj\Debug\SistemaDesktop_Katerin Merino.pdb
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_Katerin Merino.exe.config
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_Katerin Merino.exe
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_Katerin Merino.pdb
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_KaterinMerino.AccesoDatos.dll
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_KaterinMerino.Entidad.dll
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_KaterinMerino.Negocio.dll
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_KaterinMerino.Presentacion.dll
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_KaterinMerino.AccesoDatos.pdb
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_KaterinMerino.AccesoDatos.dll.config
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_KaterinMerino.Entidad.pdb
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_KaterinMerino.Negocio.pdb
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\bin\Debug\SistemaDesktop_KaterinMerino.Presentacion.pdb
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\obj\Debug\SistemaDesktop_Katerin Merino.csprojAssemblyReference.cache
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\obj\Debug\SistemaDesktop_Katerin_Merino.Properties.Resources.resources
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\obj\Debug\SistemaDesktop_Katerin Merino.csproj.GenerateResource.cache
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\obj\Debug\SistemaDesktop_Katerin Merino.csproj.CoreCompileInputs.cache
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\obj\Debug\SistemaDesktop_Katerin Merino.csproj.CopyComplete
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\obj\Debug\SistemaDesktop_Katerin Merino.exe
+E:\UPT EPIS 2020\PROGRA II\UNIDAD III\SistemaDeskop_KaterinMerino\proyectoindividuallp2-katerinMQ\SistemaDesktop_Katerin Merino\SistemaDesktop_Katerin Merino\obj\Debug\SistemaDesktop_Katerin Merino.pdb
